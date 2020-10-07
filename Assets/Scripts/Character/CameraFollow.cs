@@ -19,4 +19,5 @@ namespace Character
             transform.position = smoothedPosition;
         }
     }
+    // Only for test 00
 }
