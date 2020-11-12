@@ -15,7 +15,7 @@ namespace Client
 
         // адрес и порт сервера, к которому будем подключаться
         private int _port = 8005; // порт сервера
-        private string _address = "127.0.0.1"; // адрес сервера
+        private string _address = "109.87.31.123"; // адрес сервера ("192.168.1.105")
 
         // Start is called before the first frame update
         void Start()
